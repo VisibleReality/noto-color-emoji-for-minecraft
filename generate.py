@@ -18,7 +18,7 @@ class Emoji:
 
 
 def generate_emoji (path) -> list[Emoji]:
-	emoji_filename_regex = re.compile(r"^emoji_u([0-9a-f]{4,5})\.png$")
+	emoji_filename_regex = re.compile(r"^emoji_u([0-9a-f]{4,5})(_fe0f)?\.png$")
 
 	paths: list[str] = os.listdir(path)
 
@@ -78,9 +78,13 @@ def create_metadata (emoji: list[Emoji], width: int, height: int) -> dict:
 
 		while len(chars) < width:
 			chars.append(chr(0))
+			
+		print("\ufe0f ".join(chars), end = "\ufe0f ")
 
 		metadata["providers"][0]["chars"].append("".join(chars))
-
+	
+	print()
+	
 	return metadata
 
 
