@@ -8,4 +8,4 @@ Multi-character emoji, such as flags and other emoji using zero-width joiner (ZW
 
 Due to how Minecraft colors text, the emoji will only render correctly when the text color is white.
 
-For license information, please see [COPYING.txt](/COPYING.txt). Noto Color Emoji is licensed under the SIL Open Font License, Version 1.1 © Google LLC.
+For license information, please see [COPYING.txt](/COPYING.txt). Noto Emoji is licensed under the SIL Open Font License, Version 1.1 © Google LLC.

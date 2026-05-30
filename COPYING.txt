@@ -1,4 +1,4 @@
-Noto Color Emoji is licensed under the SIL Open Font License, Version 1.1 © Google LLC
+Noto Emoji is licensed under the SIL Open Font License, Version 1.1 © Google LLC
 
 The following files in this project are licensed under the SIL Open Font License, Version 1.1:
 - All files in the noto-emoji-for-minecraft folder
@@ -6,8 +6,8 @@ The following files in this project are licensed under the SIL Open Font License
 - emoji0.5x.png
 - header.png
 - noto-emoji-for-minecraft.zip
-Additionally, the final texture pack, distributed as noto-emoji-for-minecraft.zip, is also licensed under the SIL Open Font License, Version 1.1
-The text of the SIL Open Font Licence is available in LICENSE_OFL.txt
+Additionally, the final texture pack, distributed as noto-emoji-for-minecraft.zip, is licensed under the SIL Open Font License, Version 1.1
+The text of the SIL Open Font License is available in LICENSE_OFL.txt
 
-All other files are under the Apache License © VisibleReality
+All other files are licensed under the Apache License © VisibleReality
 The text of the Apache License is avaliable in LICENSE.txt
