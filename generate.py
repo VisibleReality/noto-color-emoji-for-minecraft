@@ -5,7 +5,7 @@ from itertools import batched
 
 from PIL import Image
 
-emoji_images_path = "noto-emoji/png/72"
+emoji_images_path = "noto-emoji/3D/png/72"
 
 grid_width = 38
 grid_height = 38
